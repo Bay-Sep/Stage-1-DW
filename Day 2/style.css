@@ -3,6 +3,7 @@ p {
     "Lucida Sans", Arial, sans-serif;
   color: #54585a;
 }
+
 .outer {
   margin: auto;
   text-align: center;
@@ -11,7 +12,7 @@ p {
   border-radius: 7px;
   margin-top: 50px;
   padding: 20px 0 50px 0;
-  overflow: hidden; /* SOLUSI AGAR BG MENGIKUTI SEMUA ISI */
+  overflow: hidden;
 }
 
 .inner {
